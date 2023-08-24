@@ -1,0 +1,6 @@
+﻿  WeatherArray.c
+E:\Munkák\Programming\C\11_WeatherArray\WeatherArray.c(14,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Munkák\Programming\C\11_WeatherArray\WeatherArray.c(15,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Munkák\Programming\C\11_WeatherArray\WeatherArray.c(16,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Munkák\Programming\C\11_WeatherArray\WeatherArray.c(17,3): warning C4305: 'initializing': truncation from 'double' to 'float'
+  11_WeatherArray.vcxproj -> E:\Munkák\Programming\C\11_WeatherArray\x64\Debug\11_WeatherArray.exe
